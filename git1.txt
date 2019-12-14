@@ -1,1 +1,6 @@
 this is my 1st class.
+git init
+git status
+git add file name
+git commit -m message
+git log
